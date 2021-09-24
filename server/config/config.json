@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Ayberk2021",
+    "database": "ucdb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Ayberk2021",
+    "database": "ucdb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Ayberk2021",
+    "database": "ucdb",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
